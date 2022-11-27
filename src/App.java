@@ -1,5 +1,5 @@
 /** Video 1: Overview of our plan - https://www.youtube.com/watch?v=LTHNYZ7RZNU&list=PLpkMWkvwtatg_BHn3tb3FsXklJz4EurHH&index=7
- *  Video 2: Creating variables - 
+ *  Video 2: Creating variables - https://youtu.be/gleqYdOr_Fo
  * 
  *  Task: 
  *  Create a Spaceship that:
